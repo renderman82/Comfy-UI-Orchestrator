@@ -1,4 +1,4 @@
-# Комfy-UI-Orchestrator
+# Comfy-UI-Orchestrator
 
 Решение для оркестрации и автоматизации ComfyUI с помощью внешних систем.
 
